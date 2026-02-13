@@ -15,7 +15,7 @@ During the exploratory data analysis phase, several important insights were unco
 *   **Satisfaction Level**: Showed a strong negative correlation with employee attrition. Employees with lower satisfaction levels are significantly more likely to leave.
 *   **Salary**: Employees with low salaries exhibited a higher attrition rate compared to those with medium or high salaries.
 *   **Department**: Specific departments showed varying attrition rates, with some departments experiencing higher turnover than others.
-*   **Duplicates and Missing Values**: The dataset was cleaned by dropping duplicate entries, and no missing values were found.
+*   **Duplicates and Missing Values**: The dataset was cleaned by dropping over 3000 duplicate entries.
 
 ## Predictive Modeling
 
